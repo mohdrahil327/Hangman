@@ -1,0 +1,14 @@
+#animals
+tiger
+elephant
+monkey
+
+#technology
+computer
+internet
+keyboard
+
+#sports
+cricket
+football
+tennis
